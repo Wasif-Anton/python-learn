@@ -1,2 +1,2 @@
 # python-learn
-Learning Python for the internet
+Learning Python from the internet
