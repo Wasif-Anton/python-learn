@@ -1,6 +1,8 @@
 #print(), can you "" or '' 
 print("hello world")
 print('Hello world')
+
+
 print("\n")
 
 #creating variables
@@ -32,4 +34,10 @@ print("x is:", type(x))
 print("y is:", type(y))
 print("z is:", type(z))
 print("\n")
+
+#input, output
+a = input("what is you'r name? ") #string
+b = int(input("how old are you? ")) #int
+
+print("hello "+ a.title() + "you are", b, "years old")
 
